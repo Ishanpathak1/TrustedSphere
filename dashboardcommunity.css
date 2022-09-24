@@ -1,0 +1,88 @@
+.Ellipse10 {
+    position: absolute;
+    width: 650px;
+    height: 650px;
+    left: -217px;
+    top: 272px;
+    border-radius: 100%;
+    background: linear-gradient(218.22deg, #0077DC 29.29%, #002678 76.21%);
+    z-index: 1;
+}
+.Ellipse11{
+    position: absolute;
+    width: 1095px;
+    height: 1095px;
+    left: 715px;
+    top: 329px;
+    border-radius: 100%;
+    background: linear-gradient(41.55deg, #004BA8 25.99%, rgba(5, 169, 222, 0.65) 100.89%);
+    z-index: 2;
+}
+.GR1{
+    position: absolute;
+    width: 700px;
+    height: 288px;
+    left: 33px;
+    top: 104px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+    z-index: 3;
+}
+.GR2{
+
+    position: absolute;
+    width: 700px;
+    height: 302px;
+    left: 33px;
+    top: 415px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+}
+.GR3{
+    position: absolute;
+    width: 1728px;
+    height: 270px;
+    left: 33px;
+    top: 750px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;  
+}
+.GR4{
+    position: absolute;
+    width: 811px;
+    height: 406px;
+    left: 903px;
+    top: 310px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+}
+.GR5{
+    position: absolute;
+    width: 559px;
+    height:180px;
+    left: 903px;
+    top: 104px;
+    z-index: 7;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;   
+}
