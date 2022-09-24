@@ -1,0 +1,234 @@
+* {
+  z-index: 7;
+}
+.ForNameText {
+  position: absolute;
+  width: 348px;
+  height: 35px;
+  left: 32px;
+  top: 259px;
+
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 45px;
+
+  color: #ffffff;
+}
+.ForNameInput {
+  position: absolute;
+  width: 1104px;
+  height: 70px;
+  left: 28px;
+  top: 310px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 45px;
+  background: #004d89;
+  box-shadow: 0px 4px 4px #0d0e14;
+  border-radius: 17px;
+}
+.ForNoText {
+  position: absolute;
+  width: 348px;
+  height: 35px;
+  left: 37px;
+  top: 107px;
+
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 45px;
+
+  color: #ffffff;
+}
+.ForNoInput {
+  position: absolute;
+  width: 1104px;
+  height: 70px;
+  left: 32px;
+  top: 167px;
+
+  background: #004d89;
+  box-shadow: 0px 4px 4px #0d0e14;
+  border-radius: 17px;
+}
+.ForAmountInput {
+  position: absolute;
+  width: 544px;
+  height: 70px;
+  left: 28px;
+  top: 428px;
+
+  background: #01213a;
+  box-shadow: 0px 4px 4px #0d0e14;
+  border-radius: 17px;
+}
+.ForUniqInput {
+  position: absolute;
+  width: 544px;
+  height: 70px;
+  left: 608px;
+  top: 428px;
+
+  background: #01213a;
+  box-shadow: 0px 4px 4px #0d0e14;
+  border-radius: 17px;
+}
+.RectangleForForm {
+  position: absolute;
+  width: 1104px;
+  height: 310px;
+  left: 37px;
+  top: 555px;
+
+  background: #004d89;
+  box-shadow: 0px 4px 4px #0d0e14;
+  border-radius: 17px;
+}
+.ForAddressLine1{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 610px;
+    top: 595px;
+    
+    background: #00B9FF;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForAddressLine2{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 610px;
+    top: 676px;
+    
+    background: #00B9FF;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForCity{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 610px;
+    top: 757px;
+    
+    background: #00B9FF;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForState{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 800px;
+    top: 757px;
+    
+    background: #00B9FF;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForCountry{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 980px;
+    top: 757px;
+    
+    background: #00B9FF;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.CYL{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    position: absolute;
+    width: 186px;
+    height: 46px;
+    left: 474px;
+    top: 808px;
+    
+    background: #01213A;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.RegisterProperty{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+    line-height: 30px;
+    position: absolute;
+    width: 344px;
+    height: 70px;
+    left: 417px;
+    top: 896px;
+    
+    background: #01213A;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.Tagline {
+    position: absolute;
+    width: 524px;
+    height: 405px;
+    left: 1270px;
+    top: 90px;
+    
+    font-family: 'Satisfy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 92px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+span{
+   color: #73FAC9;
+}
+.imagesaly{
+    position: absolute;
+    left: 69.81%;
+    right: 0%;
+    top: 41.8%;
+    bottom: -0.59%;
+}
