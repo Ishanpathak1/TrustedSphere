@@ -73,12 +73,29 @@ p{
 
   color: #FFFFFF;
 }
-a{
+.tword{
   color: #214875;
   font-family: 'Viga';
   font-style: normal;
   font-weight: 400;
   font-size: 48px;
+}
+.links {
+  position: absolute;
+  width: 288px;
+  height: 22px;
+  left: 932px;
+  top: 21px;
+
+}
+.Ellipse3 {
+  position: absolute;
+  width: 620px;
+  height: 620px;
+  left: 56px;
+  top: 37px;
+
+background: radial-gradient(48.79% 48.79% at 50% 50%, rgba(0, 212, 234, 0.729) 0%, rgba(217, 217, 217, 0) 100%);
 }
 
 .App-link {
