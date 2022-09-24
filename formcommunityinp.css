@@ -1,0 +1,192 @@
+.ForCommNameText{
+    position: absolute;
+    width: 140px;
+    height: 35px;
+    left: 668px;
+    top: 76px;
+    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    
+    color: #FFFFFF;
+}
+.ForCommNameInput{
+
+    position: absolute;
+    width: 1094px;
+    height: 70px;
+    left: 668px;
+    top: 133px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px
+}
+.ForLocationText{
+    position: absolute;
+    width: 148px;
+    height: 35px;
+    left: 668px;
+    top: 236px;
+    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    
+    color: #FFFFFF;
+}
+.ForLocationInputAddress1{
+    position: absolute;
+    width: 1094px;
+    height: 70px;
+    left: 668px;
+    top: 295px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForLocationInputAddress2{
+    position: absolute;
+    width: 1094px;
+    height: 70px;
+    left: 668px;
+    top: 384px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForLocationCity{
+    position: absolute;
+    width: 310px;
+    height: 70px;
+    left: 668px;
+    top: 470px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForLocationState{
+    position: absolute;
+    width: 310px;
+    height: 70px;
+    left: 1050px;
+    top: 470px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForLocationCountry{
+    position: absolute;
+    width: 310px;
+    height: 70px;
+    left: 1420px;
+    top: 470px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForTreasuryWalletText{
+    position: absolute;
+    width: 258px;
+    height: 35px;
+    left: 668px;
+    top: 625px;
+    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    
+    color: #FFFFFF;
+}
+.ForTreasuryWalletInput{
+    position: absolute;
+    width: 1094px;
+    height: 70px;
+    left: 668px;
+    top: 673px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForAdministratorWalletText{
+    position: absolute;
+    width: 325px;
+    height: 35px;
+    left: 668px;
+    top: 765px;
+    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    
+    color: #FFFFFF;
+    
+}
+.ForAdmistratorWalletInput{
+    position: absolute;
+    width: 1094px;
+    height: 70px;
+    left: 668px;
+    top: 822px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.ForUniqueIdInput{
+    position: absolute;
+    width: 500px;
+    height: 70px;
+    left: 666px;
+    top: 920px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.SubmitCommunity{
+    position: absolute;
+    width: 500px;
+    height: 82px;
+    left: 1260px;
+    top: 920px;
+    
+    background: #01213A;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.TagLineCommunity{
+    position:absolute;
+    left: 0px;
+}
+.imagefinger{
+    position: absolute;
+    
+    left: 61px;
+    top: 590px;
+    
+    
+}
