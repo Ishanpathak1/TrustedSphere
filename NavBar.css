@@ -1,0 +1,64 @@
+*{z-index: 6;
+
+}
+.earthimage{
+    position: relative;
+    top: -5px;
+    left: 0px;
+    
+    
+}
+ul {
+    position: absolute;
+    width: 2000px;
+    height: 22px;
+    left: 780px;
+    top: 21px;
+    list-style: none;
+    display: flex;
+    gap:1rem;
+    font-family: 'Roboto';
+}
+a {
+    color: #000000;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 21px;  
+}
+
+
+
+.Title {
+    width: 200px;
+    height: 14px;
+    left: 80px;
+    top: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+
+    text-transform: uppercase;
+
+    color: #000000;
+}
+.ConnectWalletButtonNav{
+    position: absolute;
+    background: none;
+    height: 50px;
+    width: 160px;
+    left: 1630px;
+    top: 28px;
+    border-radius: 6px;
+    font-size: large;
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+
+}
