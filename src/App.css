@@ -1,0 +1,112 @@
+/*.App {
+  text-align: center;
+}*/
+
+/*.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}*/
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/*.App-header {
+  background-color: #00b9ff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}*/
+.Ellipse2 {
+  position: absolute;
+  width: 1066px;
+  height: 1118px;
+  left: 1150px;
+  top: -122px;
+  background: radial-gradient(50% 50% at 50% 50%, #0049D8 0%, rgba(122, 145, 188, 0) 100%);
+
+}
+.imagesec {
+  position: absolute;
+  width: 677px;
+  height: 605px;
+  left: 1150px;
+  top: 89px;
+}
+.regbutton1{
+  position: absolute;
+  width: 311px;
+  height: 70px;
+  left: 227px;
+  top: 552px;
+  background: #004D89;
+  box-shadow: 0px 4px 4px #0D0E14;
+  border-radius: 17px;
+  font-family: 'Bree Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 43px;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+p{
+  position: absolute;
+  width: 655px;
+  height: 229px;
+  left: 56px;
+  top: 245px;
+
+  font-family: 'Bree Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 54px;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+.tword{
+  color: #214875;
+  font-family: 'Viga';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+}
+.links {
+  position: absolute;
+  width: 288px;
+  height: 22px;
+  left: 932px;
+  top: 21px;
+
+}
+.Ellipse3 {
+  position: absolute;
+  width: 620px;
+  height: 620px;
+  left: 56px;
+  top: 37px;
+
+background: radial-gradient(48.79% 48.79% at 50% 50%, rgba(0, 212, 234, 0.729) 0%, rgba(217, 217, 217, 0) 100%);
+}
+
+.App-link {
+  color: #00b9ff;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,294 @@
+.Ellipse12{
+    position: absolute;
+    width: 1095px;
+    height: 1095px;
+    left: -318px;
+    top: -304px;
+    border-radius: 100%;
+    background: linear-gradient(41.55deg, #004BA8 25.99%, rgba(5, 169, 222, 0.65) 100.89%);
+    z-index: 1;
+}
+.Ellipse13{
+    position: absolute;
+    width: 650px;
+    height: 650px;
+    left: 1031px;
+    top: 495px;
+    border-radius: 100%;
+    background: linear-gradient(218.22deg, #0077DC 29.29%, #002678 76.21%);
+    z-index: 2;
+}
+.GR6{
+    position: absolute;
+    width: 818px;
+    height: 182px;
+    left: 26px;
+    top: 146px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px; 
+    z-index:3 ;
+}
+.R7{
+    position: absolute;
+    width: 513px;
+    height: 280px;
+    left: 26px;
+    top: 429px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;  
+    z-index: 4;
+}
+.GR8{
+    position: absolute;
+    width: 979px;
+    height: 260px;
+    left: 83px;
+    top: 733px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+    z-index: 5;
+}
+.GR9{
+    position: absolute;
+    width: 1118px;
+    height: 351px;
+    left: 642px;
+    top: 367px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px; 
+    z-index: 6;
+}
+.GR10{
+    position: absolute;
+    width: 595px;
+    height: 152px;
+    left: 1094px;
+    top: 146px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+    z-index: 7;
+
+}
+.LP{
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    color: #FFFFFF;
+    z-index: 8;
+    position: absolute;
+    width: 260px;
+    height: 60px;
+    left: 36px;
+    top: 110px;
+    
+
+}
+.TD{
+    position: absolute;
+    width: 183px;
+    height: 60px;
+    left: 1103px;
+    top: 106px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    
+    color: #FFFFFF; 
+    z-index: 9;  
+}
+.AdminYes{
+    position: absolute;
+    width: 336px;
+    height: 109px;
+    left: 110px;
+    top: 400px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    z-index: 10;
+       
+}
+.R{
+    position: absolute;
+    width: 175px;
+    height: 62px;
+    left: 648px;
+    top: 326px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    
+    color: #FFFFFF;  
+    z-index: 11; 
+}
+.SM{
+    position: absolute;
+    width: 433px;
+    height: 53px;
+    left: 106px;
+    top: 704px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    
+    color: #FFFFFF;  
+    z-index: 12;
+}
+.PA{
+    position: absolute;
+    width: 197px;
+    height: 50px;
+    left: 1466px;
+    top: 222px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 43px;
+    color: #FFFFFF;
+    background: #01213A;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    z-index: 13;
+
+}
+.CM{
+    position: absolute;
+    width: 433px;
+    height: 70px;
+    left: 66px;
+    top: 616px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+
+    color: #01345B;
+    
+    background: #67B9F9;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    z-index: 14;  
+
+
+}
+.Search{
+    position: absolute;
+    width: 892px;
+    height: 70px;
+    left: 656px;
+    top: 438px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 43px;
+
+    color: #FFFFFF;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;  
+     z-index: 15;
+}
+.S{
+    position: absolute;
+    width: 145px;
+    height: 80px;
+    left: 1580px;
+    top: 438px;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    z-index: 16;
+}
+.TypeHere{
+    position: absolute;
+    width: 602px;
+    height: 159px;
+    left: 106px;
+    top: 815px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+    
+    background: #67B9F9;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    z-index: 17;
+}
+.SendMessage{
+    position: absolute;
+    width: 299px;
+    height: 70px;
+    left: 739px;
+    top: 898px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+    background: #01213A;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    z-index: 18;
+}
+.ProDash{
+    position: absolute;
+    width: 381px;
+    height: 42px;
+    left: 739px;
+    top: 35px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    
+    color: #01345B;
+    z-index: 19;
+}

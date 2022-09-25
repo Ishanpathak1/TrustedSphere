@@ -1,0 +1,58 @@
+*{z-index: 6;
+
+}
+.earthimage{
+    position: relative;
+    top: -5px;
+    left: 0px;
+    
+    
+}
+ul {
+    position: absolute;
+    width: 2000px;
+    height: 22px;
+    left: 950px;
+    top: 21px;
+    list-style: none;
+    display: flex;
+    gap:1rem;
+}
+a {
+    color: #000000;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;  
+}
+
+
+
+.Title {
+    width: 200px;
+    height: 14px;
+    left: 80px;
+    top: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+
+    text-transform: uppercase;
+
+    color: #000000;
+}
+.signinbutton{
+    position: absolute;
+    background: none;
+    height: 40px;
+    width: 160px;
+    left: 1630px;
+    top: 28px;
+    border-radius: 6px;
+    font-size: large;
+
+}

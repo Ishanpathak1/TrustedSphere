@@ -1,0 +1,77 @@
+.Ellipse5{
+    position: absolute;
+    width: 1095px;
+    height: 1095px;
+    left: 445px;
+    top: 378px;
+    border-radius: 100%;
+    background: linear-gradient(43.14deg, #00C0FF 26.05%, rgba(115, 250, 201, 0.99) 124.42%);
+    z-index: -2;
+
+}
+.rectangle1{
+    position: absolute;
+    width: 616px;
+    height: 1224px;
+    left: 1224px;
+    top: 80px;
+
+    background: #013872;
+    border-radius: 10px 0px 0px 10px;
+    z-index: -3;
+}
+
+.glassmorphismrectangle1{
+    position: absolute;
+    width: 1193px;
+    height: 999px;
+    left: 11px;
+    top: 12px;
+
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+
+
+    border-radius: 16px;
+    z-index: -1;
+
+}
+
+a{
+    position: static;
+    width: 3408px;
+    height: 35px;
+    left: 337px;
+    top: 107px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+
+    color: #FFFFFF;
+    z-index: 4;
+}
+.ConnectWalletButton{
+
+    position: absolute;
+    width: 208px;
+    height: 70px;
+    left: 980px;
+    top: 77px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+    background: #01213A;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;   
+}
+
+
