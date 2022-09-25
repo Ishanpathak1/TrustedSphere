@@ -74,3 +74,28 @@
     z-index: 3;
     background: radial-gradient(48.79% 48.79% at 50% 50%, rgba(0, 212, 234, 0.729) 0%, rgba(217, 217, 217, 0) 100%);
   }
+  .AAVE{
+    position: absolute;
+    left: 45px;
+    top: 750px;
+  }
+  .Polygon{
+    position: absolute;
+    left: 430px;
+    top: 785px;
+  }
+  .TableLand{
+    position: absolute;
+    left: 840px;
+    top: 785px;
+  }
+  .ENS{
+    position: absolute;
+    left: 1260px;
+    top: 800px;
+  }
+  .EPNS{
+    position: absolute;
+    left: 1610px;
+    top: 800px; 
+  }

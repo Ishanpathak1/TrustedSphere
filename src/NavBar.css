@@ -12,18 +12,19 @@ ul {
     position: absolute;
     width: 2000px;
     height: 22px;
-    left: 950px;
+    left: 780px;
     top: 21px;
     list-style: none;
     display: flex;
     gap:1rem;
+    font-family: 'Roboto';
 }
 a {
     color: #000000;
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
+    font-weight: 500;
+    font-size: 23px;
     line-height: 21px;  
 }
 
