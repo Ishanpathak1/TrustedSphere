@@ -1,0 +1,141 @@
+.Ellipse8{
+    position: absolute;
+    width: 650px;
+    height: 650px;
+    left: -180px;
+    top: -138px;
+    border-radius: 100%;
+    z-index: 1;
+    
+    background: linear-gradient(218.22deg, #0077DC 29.29%, #002678 76.21%);
+}
+.Ellipse9{
+    position: absolute;
+    width: 1095px;
+    height: 1095px;
+    left: 450px;
+    top: 476px;
+    z-index: 2;
+    border-radius: 100%;
+    
+    background: linear-gradient(41.55deg, #004BA8 25.99%, rgba(5, 169, 222, 0.65) 100.89%)
+}
+.glassmorphismrectangle3{
+    position: absolute;
+    width: 457px;
+    height: 743px;
+    left: 250px;
+    top: 131px;
+    z-index: 3;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+}
+.glassmorphismrectangle4{
+    position: absolute;
+    width: 457px;
+    height: 743px;
+    left: 1121px;
+    top: 131px;
+    z-index: 4;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+}
+.comimage{
+    position: absolute;
+    left: 290px;
+    top: 187px;
+    z-index: 5;
+    
+}
+.proimage{
+    position: absolute;
+    width: 128px;
+    height: 172px;
+    left: 1290px;
+    top: 187px;
+}
+.ComText p{
+    position: absolute;
+    width: 400px;
+    height: 197px;
+    left: 275px;
+    top: 475px;
+    
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.ComText span{
+    color: #214875;
+
+}
+.ProText p {
+    position: absolute;
+    width: 400px;
+    height: 143px;
+    left: 1150px;
+    top: 448px;
+    
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.ProText span {
+    color:#214875;
+}
+.regbutton2{
+    position: absolute;
+    width: 311px;
+    height: 70px;
+    left: 325px;
+    top: 743px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+    
+    color: #ECF5FF;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}
+.regbutton3{
+    position: absolute;
+    width: 311px;
+    height: 70px;
+    left: 1194px;
+    top: 743px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+    
+    color: #ECF5FF;
+    
+    background: #004D89;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+}

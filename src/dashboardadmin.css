@@ -1,0 +1,236 @@
+.Ellipse14{
+    position: absolute;
+    width: 1095px;
+    height: 1095px;
+    left: -231px;
+    top: 65px;
+    border-radius: 100%;
+    
+    background: linear-gradient(41.55deg, #004BA8 25.99%, rgba(5, 169, 222, 0.65) 100.89%);
+    z-index: 1;
+}
+.Ellipse15{
+    position: absolute;
+    width: 650px;
+    height: 650px;
+    left: 1282px;
+    top: -125px;
+    border-radius: 100%;
+    background: linear-gradient(218.22deg, #0077DC 29.29%, #002678 76.21%);
+    z-index: 2;
+}
+.GR11{
+    position: absolute;
+    width: 1678px;
+    height: 270px;
+    left: 56px;
+    top: 165px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+    z-index: 3;
+}
+.GR12{
+    position: absolute;
+    width: 848px;
+    height: 270px;
+    left: 56px;
+    top: 458px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+    z-index: 4;
+
+}
+.GR13{
+    position: absolute;
+    width: 967px;
+    height: 218px;
+    left: 56px;
+    top: 751px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+    z-index: 5;
+}
+.GR14{
+    position: absolute;
+    width: 615px;
+    height: 209px;
+    left: 1169px;
+    top: 458px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+    z-index: 6;
+}
+.DT{
+    position: absolute;
+    width: 216px;
+    height: 60px;
+    left: 50px;
+    top: 115px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 65px;
+    
+    color: #FFFFFF;
+    z-index: 7;
+}
+.RS{
+    position: absolute;
+    width: 329px;
+    height: 60px;
+    left: 58px;
+    top: 422px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    
+    color: #FFFFFF;
+    z-index: 8;
+}
+.RM{
+    position: absolute;
+    width: 348px;
+    height: 60px;
+    left: 69px;
+    top: 715px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    
+    color: #FFFFFF;
+    z-index: 9;
+    
+}
+.PTS{
+    position: absolute;
+    width: 570px;
+    height: 60px;
+    left: 1030px;
+    top: 422px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    
+    color: #FFFFFF;
+    z-index: 10;
+}
+.PLIA{
+
+    position: absolute;
+    width: 446px;
+    height: 180px;
+    left: 1278px;
+    top: 762px;
+
+    background: #01213A;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    
+    color: #FFFFFF;
+    z-index: 11;
+}
+.RB{
+    position: absolute;
+    width: 433px;
+    height: 70px;
+    left: 460px;
+    top: 640px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    
+    color: #01345B;
+    
+    background: #67B9F9;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    z-index: 12;
+}
+.SB{
+    position: absolute;
+    width: 335px;
+    height: 59px;
+    left: 661px;
+    top: 890px;
+
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    
+    color: #01345B;
+    background: #67B9F9;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    z-index: 13;
+}
+
+.PayAll{
+    position: absolute;
+    width: 268px;
+    height: 59px;
+    left: 1498px;
+    top: 590px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    background: #67B9F9;
+    box-shadow: 0px 4px 4px #0D0E14;
+    border-radius: 17px;
+    z-index: 14;
+}
+.AdminTitle{
+    position: absolute;
+    width: 475px;
+    height: 42px;
+    left: 581px;
+    top: 50px;
+    
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center;
+    
+    color: #01345B;
+    
+}

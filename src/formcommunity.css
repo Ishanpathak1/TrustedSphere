@@ -1,0 +1,53 @@
+.rectangle2{
+    position: absolute;
+    width: 616px;
+    height: 1024px;
+    left: 0px;
+    top: 80px;
+    
+    background: #013872;
+    border-radius: 0px 10px 10px 0px;
+    z-index: 1;
+}
+.Ellipse6{
+    position: absolute;
+    width: 1095px;
+    height: 1095px;
+    left: 353px;
+    top: 368px;
+    z-index: 2;
+    border-radius: 100%;
+    
+    background: linear-gradient(43.14deg, #00C0FF 26.05%, rgba(115, 250, 201, 0.99) 124.42%);
+}
+.glassmorphismrectangle2{
+    position: absolute;
+    width: 1145px;
+    height: 1020px;
+    left: 637px;
+    top: 13px;
+    
+    background: linear-gradient(152.97deg, rgba(21, 21, 21, 0.2) 0%, rgba(21, 21, 21, 0) 100%);
+    backdrop-filter: blur(21px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 16px;
+    z-index: 3;
+}
+.TaglineCommunity a{
+    position: absolute;
+    width: 572px;
+    height: 405px;
+    left: 22px;
+    top: 107px;
+    
+    font-family: 'Satisfy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 92px;
+    text-align: center;
+    
+    color: #FFFFFF;
+
+}
